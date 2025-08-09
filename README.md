@@ -1,17 +1,22 @@
-## 👋 Olá! Eu sou o João Pontel
+<h1> Olá! Eu sou o João Pontel </h1>
 
-🎓 Estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software.
+<h2> Estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software. </h2>
 
-🚀 Atualmente focado em:
-- Desenvolvimento back-end com **Java + Spring Boot**
-- Banco de dados relacionais com **PostgreSQL** e **MySQL**
-- Construção de APIs REST seguras e bem estruturadas
-- Criação do projeto **Full Store**, um sistema completo de e-commerce
+<h3> Atualmente focado em: </h3>
+- Desenvolvimento back-end com Java + Spring Boot </br>
+- Desenvolvimento front-end com HTMl + CSS + Java Script </br>
+- Banco de dados relacionais com PostgreSQL e MySQL </br>
+- Construção de APIs REST seguras e bem estruturadas </br>
+- Arquitetura de Monolitos e Microserviços </br> </br>
 
-🛠️ Tecnologias que utilizo:
-- Java, Spring Boot, Spring Data JPA
-- MySQL, PostgreSQL
-- Testes com JUnit
+
+<h3> Tecnologias que utilizo: </h3>
+- Java, Spring Boot, Spring Data JPA </br>
+- MySQL, PostgreSQL </br>
+- Testes com JUnit </br>
+- Conhecimento em sistemas Linux e Windows </br>
+- Versionamento e compartilhamento de projetos com Git + GitHub </br>
+- Conteinerização com Docker </br> </br>
 
 📈 Em constante evolução:
 - Desenvolvimento da **Full Store**: e-commerce completo com controle de usuários, pedidos, produtos e fluxo de vendas
